@@ -30,6 +30,7 @@ freeze: true
 format:
   html:
     smooth-scroll: true
+    toc: true
     code-copy: true
     theme: tango
     css: styles.css

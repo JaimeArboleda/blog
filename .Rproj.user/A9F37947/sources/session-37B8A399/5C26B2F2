@@ -1,27 +1,27 @@
 {
-    "id": "964ACC09",
-    "path": "~/projects/R/blog/about.qmd",
-    "project_path": "about.qmd",
+    "id": "5C26B2F2",
+    "path": "~/projects/R/blog/posts/es.qmd",
+    "project_path": "posts/es.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2343220230",
     "contents": "",
     "dirty": false,
-    "created": 1663573452641.0,
+    "created": 1663576655315.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,95",
+        "cursorPosition": "4,2",
         "scrollLine": "0",
-        "marks": "<:13,0\n>:13,0"
+        "marks": "<:4,2\n>:9,2"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663573932,
+    "lastKnownWriteTime": 1663576876,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663573932986,
+    "last_content_update": 1663576876,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,19 @@
+---
+title: "Jaime Arboleda"
+listing:
+  contents: "*/en/*.qmd"
+  type: default
+  fields: [image, date, title, subtitle, categories, reading-time]  
+  sort: "date desc"
+  sort-ui: true
+  filter-ui: true
+  page-size: 10
+page-layout: full
+title-block-banner: false
+comments: false
+---
+
+## Posts in English
+
+::: {#posts-en}
+:::

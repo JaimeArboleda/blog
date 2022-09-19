@@ -1,0 +1,19 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Quarto cache
+*_frozen/
+_frozen/*
+
+# R Environment Variables
+.Renviron
+
+/.quarto/

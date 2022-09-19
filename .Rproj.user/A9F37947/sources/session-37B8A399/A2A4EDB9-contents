@@ -1,0 +1,32 @@
+---
+title: "Welcome to my blog"
+subtitle: "A blog about data science and other related topics"
+author: "Jaime Arboleda"
+date: 19/09/2022
+categories:
+  - blog
+toc: true  
+img: "welcome.png"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r multilang-buttons}
+#| results: asis
+#| echo: false
+source(here::here("R/multilang.R"))
+multilang()
+```
+
+## A data science blog
+
+Hi! This is my blog about data science, statistics, machine learning and other related (mostly) topics. 
+
+I decided to start this blog thanks to the wonderful tool developed by RStudio called Quarto, that makes it easier than ever to pack a bunch of scripts into a blog. 
+
+I won't post very often, and many of my posts will have an educative content that I will create for myself (for my future self), but that I think could be of interest of other people, so I think that making them public is helpful. 
+
+If you find here something interesting, don't hesitate to say it and leave a comment. :smile:
+

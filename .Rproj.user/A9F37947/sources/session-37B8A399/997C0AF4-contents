@@ -1,5 +1,5 @@
 ---
-title: "Posts in English"
+title: "English posts"
 listing:
   contents: "*/en/*.qmd"
   type: default

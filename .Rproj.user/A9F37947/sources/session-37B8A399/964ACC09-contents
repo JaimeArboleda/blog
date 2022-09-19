@@ -11,6 +11,7 @@ about:
       text: Github
       href: https://github.com/JaimeArboleda
 
+comments: false
 ---
 
 A blog about data science, machine learning, statistics, programming, Python, R and much more...

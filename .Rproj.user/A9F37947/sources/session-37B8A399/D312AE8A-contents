@@ -15,8 +15,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## A data science blog
 
-![image](welcome.png)
-
 Hi! This is my blog about data science, statistics, machine learning and other related (mostly) topics. 
 
 I decided to start this blog thanks to the wonderful tool developed by RStudio called Quarto, that makes it easier than ever to pack a bunch of scripts into a blog. 

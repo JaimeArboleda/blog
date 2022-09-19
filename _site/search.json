@@ -2,36 +2,36 @@
   {
     "objectID": "posts/es.html",
     "href": "posts/es.html",
-    "title": "Jaime Arboleda",
+    "title": "Entradas en español",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/en.html",
     "href": "posts/en.html",
-    "title": "Jaime Arboleda",
+    "title": "Posts in English",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
-    "title": "Posts",
+    "title": "All Posts",
     "section": "",
-    "text": "No matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index_old.html",
+    "href": "index_old.html",
+    "title": "posts",
     "section": "",
-    "text": "A blog about data science, machine learning, statistics, programming, Python, R and much more…"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "posts",
+    "title": "About",
     "section": "",
-    "text": "No matching items"
+    "text": "A blog about data science, machine learning, statistics, programming, Python, R and much more…"
   }
 ]

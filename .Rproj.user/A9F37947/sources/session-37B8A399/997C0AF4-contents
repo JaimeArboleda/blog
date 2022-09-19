@@ -1,8 +1,9 @@
 ---
-title: "Jaime Arboleda"
+title: "Posts in English"
 listing:
   contents: "*/en/*.qmd"
   type: default
+  categories: true
   fields: [image, date, title, subtitle, categories, reading-time]  
   sort: "date desc"
   sort-ui: true
@@ -13,7 +14,3 @@ title-block-banner: false
 comments: false
 ---
 
-## Posts in English
-
-::: {#posts-en}
-:::

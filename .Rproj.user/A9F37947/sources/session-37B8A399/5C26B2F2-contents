@@ -1,10 +1,11 @@
 ---
-title: "Jaime Arboleda"
+title: "Entradas en español"
 listing:
   contents: "*/es/*.qmd"
   type: default
-  fields: [image, date, title, subtitle, categories, reading-time]  
   sort: "date desc"
+  fields: [image, date, title, subtitle, categories, reading-time]  
+  categories: true
   sort-ui: true
   filter-ui: true
   page-size: 10
@@ -13,7 +14,3 @@ title-block-banner: false
 comments: false
 ---
 
-## Posts en español
-
-::: {#posts-es}
-:::

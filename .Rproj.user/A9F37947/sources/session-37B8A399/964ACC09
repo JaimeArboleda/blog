@@ -1,9 +1,9 @@
 {
     "id": "964ACC09",
-    "path": "~/projects/R/blog/about.qmd",
-    "project_path": "about.qmd",
+    "path": "~/projects/R/blog/index.qmd",
+    "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1962065659",
     "contents": "",
     "dirty": false,
     "created": 1663573452641.0,
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663573932986,
+    "last_content_update": 1663573932,
     "read_only": false,
     "read_only_alternatives": []
 }

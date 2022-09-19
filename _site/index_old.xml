@@ -6,10 +6,10 @@
       version="2.0">
 <channel>
 <title>Jaime Arboleda</title>
-<link>https://jaime-arboleda.netlify.app/index.html</link>
-<atom:link href="https://jaime-arboleda.netlify.app/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://jaime-arboleda.netlify.app/index_old.html</link>
+<atom:link href="https://jaime-arboleda.netlify.app/index_old.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about data science, machine learning, statistics, programming, Python, R and much more...</description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Mon, 19 Sep 2022 08:48:50 GMT</lastBuildDate>
+<lastBuildDate>Mon, 19 Sep 2022 08:55:52 GMT</lastBuildDate>
 </channel>
 </rss>

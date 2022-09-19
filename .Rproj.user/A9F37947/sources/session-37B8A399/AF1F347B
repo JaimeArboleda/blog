@@ -1,14 +1,14 @@
 {
     "id": "AF1F347B",
-    "path": "~/projects/R/blog/index.qmd",
-    "project_path": "index.qmd",
+    "path": "~/projects/R/blog/index_old.qmd",
+    "project_path": "index_old.qmd",
     "type": "quarto_markdown",
     "hash": "2518696577",
     "contents": "",
     "dirty": false,
     "created": 1663575085970.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
@@ -21,7 +21,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663576033209,
+    "last_content_update": 1663576033,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,0 +1,17 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jaime-arboleda-castilla-1a676b207
+    - icon: github
+      text: Github
+      href: https://github.com/JaimeArboleda
+
+comments: false
+---
+
+A blog about data science, machine learning, statistics, programming, Python, R and much more...

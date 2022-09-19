@@ -13,13 +13,6 @@ img: "welcome.png"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r multilang-buttons}
-#| results: asis
-#| echo: false
-source(here::here("R/multilang.R"))
-multilang()
-```
-
 ## A data science blog
 
 Hi! This is my blog about data science, statistics, machine learning and other related (mostly) topics. 

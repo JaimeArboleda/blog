@@ -1,17 +1,5 @@
 [
   {
-    "listing": "/posts/es.html",
-    "items": [
-      "/posts/welcome/es/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/en.html",
-    "items": [
-      "/posts/welcome/en/index.html"
-    ]
-  },
-  {
     "listing": "/posts/index.html",
     "items": []
   }

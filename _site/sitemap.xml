@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jaime-arboleda.netlify.app/posts/es.html</loc>
-    <lastmod>2022-09-19T09:31:42.248Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jaime-arboleda.netlify.app/posts/welcome/es/index.html</loc>
-    <lastmod>2022-09-19T09:31:43.452Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jaime-arboleda.netlify.app/posts/welcome/en/index.html</loc>
-    <lastmod>2022-09-19T09:31:44.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jaime-arboleda.netlify.app/posts/en.html</loc>
-    <lastmod>2022-09-19T09:31:44.916Z</lastmod>
+    <loc>https://jaime-arboleda.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2022-09-19T09:38:03.491Z</lastmod>
   </url>
   <url>
     <loc>https://jaime-arboleda.netlify.app/posts/index.html</loc>
-    <lastmod>2022-09-19T09:31:45.332Z</lastmod>
+    <lastmod>2022-09-19T09:38:03.963Z</lastmod>
   </url>
   <url>
     <loc>https://jaime-arboleda.netlify.app/index.html</loc>
-    <lastmod>2022-09-19T09:31:45.720Z</lastmod>
+    <lastmod>2022-09-19T09:38:04.435Z</lastmod>
   </url>
 </urlset>

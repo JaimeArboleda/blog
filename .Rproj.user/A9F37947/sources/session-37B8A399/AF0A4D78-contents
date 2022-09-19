@@ -8,13 +8,7 @@ website:
   navbar:
     right:
       - text: Posts
-        menu: 
-          - text: All posts
-            href: posts/index.qmd
-          - text: English
-            href: posts/en.qmd
-          - text: Español
-            href: posts/es.qmd 
+        href: posts/index.qmd
       - text: About
         href: index.qmd
       - icon: github
@@ -24,7 +18,7 @@ website:
       - icon: rss
         href: index.xml
         
-date-format: "dd/MM/yyyy"
+date-format: "DD/MM/YYYY"
 
 freeze: true
 

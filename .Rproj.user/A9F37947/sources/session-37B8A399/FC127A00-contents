@@ -1,13 +1,11 @@
 ---
 title: "All Posts"
 listing:
-  contents: Posts
+  contents: posts
   type: default
   sort: "date desc"
   fields: [image, date, title, subtitle, categories, reading-time]  
   categories: true
-  sort-ui: true
-  filter-ui: true
   page-size: 10
   feed: true
 page-layout: full

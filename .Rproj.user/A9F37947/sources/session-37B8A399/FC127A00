@@ -3,7 +3,7 @@
     "path": "~/projects/R/blog/posts/index.qmd",
     "project_path": "posts/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2354375368",
     "contents": "",
     "dirty": false,
     "created": 1663576765375.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,15",
+        "cursorPosition": "3,16",
         "scrollLine": "0",
-        "marks": "<:16,0\n>:16,0"
+        "marks": "<:8,0\n>:8,0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1663577567,
+    "lastKnownWriteTime": 1663580223,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1663577567751,
+    "last_content_update": 1663580223903,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -18,7 +18,7 @@ website:
       - icon: rss
         href: index.xml
         
-date-format: "DD/MM/YYYY"
+date-format: "YYYY/MM/DD"
 
 freeze: true
 

@@ -10,6 +10,29 @@
 <atom:link href="https://jaime-arboleda.netlify.app/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about data science, machine learning, statistics, programming, Python, R and much more...</description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Mon, 19 Sep 2022 09:38:03 GMT</lastBuildDate>
+<lastBuildDate>Sat, 08 Jul 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my blog</title>
+  <dc:creator>Jaime Arboleda</dc:creator>
+  <link>https://jaime-arboleda.netlify.app/posts/welcome/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="a-data-science-blog" class="level2">
+<h2 class="anchored" data-anchor-id="a-data-science-blog">A data science blog</h2>
+<p>Hi! This is my blog about data science, statistics, machine learning and other related (mostly) topics.</p>
+<p>I decided to start this blog thanks to the wonderful tool developed by RStudio called Quarto, that makes it easier than ever to pack a bunch of scripts into a blog.</p>
+<p>I won’t post very often, and many of my posts will have an educative content that I will create for myself (for my future self), but that I think could be of interest of other people, so I think that making them public is helpful.</p>
+<p>If you find here something interesting, don’t hesitate to say it and leave a comment. :smile:</p>
+
+
+</section>
+
+ ]]></description>
+  <category>blog</category>
+  <guid>https://jaime-arboleda.netlify.app/posts/welcome/index.html</guid>
+  <pubDate>Sat, 08 Jul 2023 22:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
